@@ -1,0 +1,2 @@
+# https-1drv.ms-p-c-443802a46146fcaf-IQAkMx_TWdJPTbc_RBGzvBgzAQO842cAmL3RhICerF-lvtI-e-uIG1Jn
+This repository features a Python implementation of sorting algorithms, specifically Bubble Sort, to demonstrate the logic of arranging lists. Created for the Introduction to Problem Solving and Programming course, it includes manual sorting logic alongside Python's efficient built-in methods like .sort() and sorted().
